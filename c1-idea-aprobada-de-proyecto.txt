@@ -1,3 +1,2 @@
-Proyecto de aula aprobado:
-
+<span style="color:red">Proyecto de aula aprobado:</span>
 Detector pulsos-frecuencia.
